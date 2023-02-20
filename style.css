@@ -18,4 +18,13 @@ button {
   padding: 10px 20px;
   border: none;
   font-weight: bold;
+  margin-bottom: 10px;
+}
+#container button {
+  background: lightcoral;
+  border: none;
+  padding: 10px 20px;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
 }
